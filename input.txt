@@ -1,4 +1,2 @@
-3
-dsn 90 dsn@gmail.com
-al 9 al@yahoo.com
-ki 4 ki@gmail.com
+7
+1 2 3 4 5 6 7
